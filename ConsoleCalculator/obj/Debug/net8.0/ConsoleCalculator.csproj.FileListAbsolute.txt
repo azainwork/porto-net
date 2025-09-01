@@ -1,0 +1,14 @@
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.AssemblyInfo.cs
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.exe
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.deps.json
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.runtimeconfig.json
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.dll
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\bin\Debug\net8.0\ConsoleCalculator.pdb
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.dll
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\refint\ConsoleCalculator.dll
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.pdb
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ConsoleCalculator.genruntimeconfig.cache
+D:\NETBEGIN\ProjectDotNet\ConsoleCalculator\obj\Debug\net8.0\ref\ConsoleCalculator.dll

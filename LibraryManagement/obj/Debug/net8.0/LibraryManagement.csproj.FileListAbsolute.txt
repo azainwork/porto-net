@@ -1,0 +1,14 @@
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+D:\NETBEGIN\ProjectDotNet\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
